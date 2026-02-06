@@ -1,5 +1,3 @@
-)
-
 📦 Tile Warehouse – Spring Boot Backend
 
 This is the Spring Boot backend for the Tile Warehouse Management System.

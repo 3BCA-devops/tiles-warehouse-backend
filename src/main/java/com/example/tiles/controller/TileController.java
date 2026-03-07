@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = {"http://localhost:3000", "https://tiles-warehouse-frontend.vercel.app"})
+@CrossOrigin(origins = {"https://tiles-warehouse-frontend.vercel.app"})
 @RequestMapping("/tiles")
 public class TileController {
 
